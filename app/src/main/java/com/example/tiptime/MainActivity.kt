@@ -2,7 +2,6 @@ package com.example.tiptime
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
 import com.example.tiptime.databinding.ActivityMainBinding
 import java.text.NumberFormat
 
