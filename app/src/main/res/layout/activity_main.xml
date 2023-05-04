@@ -15,7 +15,7 @@
         android:layout_marginTop="8dp"
         android:autofillHints=""
         android:ems="10"
-        android:hint="Cusro do serviço"
+        android:hint="Custo do serviço"
         android:inputType="numberDecimal"
         android:minHeight="48dp"
         app:layout_constraintStart_toStartOf="parent"
